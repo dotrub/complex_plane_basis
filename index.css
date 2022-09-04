@@ -1,0 +1,9 @@
+canvas {
+  width: 100%;
+  object-fit: contain;
+  position: absolute;
+}
+
+body {
+  margin: 0;
+}
